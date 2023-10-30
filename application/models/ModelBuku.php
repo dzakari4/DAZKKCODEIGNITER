@@ -65,4 +65,4 @@ buku.id_kategori');
         return $this->db->get();
     }
 }
-
+?>
