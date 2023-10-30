@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') or exit ('no direct script access allowed');
-class web extends CI_Controller{
+class Web extends CI_Controller{
  function __construct(){
     parent::__construct();
     $this->load->helper('url');
